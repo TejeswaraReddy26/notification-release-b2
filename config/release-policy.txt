@@ -1,0 +1,6 @@
+
+Approved Release Channels:
+
+development
+staging
+production
